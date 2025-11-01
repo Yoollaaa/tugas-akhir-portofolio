@@ -110,6 +110,23 @@ Tahap terakhir adalah mempublikasikan seluruh riwayat kerja ke repository remote
     ```
     <img width="717" height="262" alt="image" src="https://github.com/user-attachments/assets/eb62023e-1d59-4b4c-ba60-0ffd26f5c5ab" />
 
+##  Langkah Instalasi & Penggunaan
+
+Proyek ini bersifat statis dan tidak memerlukan proses instalasi yang rumit. Untuk menjalankannya di komputer lokal Anda:
+
+1.  **Clone repository ini:**
+    ```bash
+    git clone https://github.com/Yoollaaa/tugas-akhir-portofolio.git
+    ```
+
+2.  **Masuk ke direktori proyek:**
+    ```bash
+    cd tugas-akhir-portofolio
+    ```
+
+3.  **Buka file `index.html`** di browser favorit Anda.
+
+---
 ### 
 ### Visualisasi Riwayat Commit (`git log`)
 
