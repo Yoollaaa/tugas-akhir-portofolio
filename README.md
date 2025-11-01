@@ -4,8 +4,6 @@ Repository ini adalah penyerahan untuk Tugas Akhir mata kuliah Dasar Pemrograman
 
 ---
 
-## Alur Kerja & Langkah Pengerjaan
-
 Berikut adalah dokumentasi langkah demi langkah dari proses pengerjaan proyek ini, sesuai dengan riwayat commit yang tercatat di Git.
 
 ### Fase 1: Inisialisasi dan Commit Bertahap
@@ -36,27 +34,27 @@ Proyek dimulai dengan inisialisasi repository Git lokal dan dilanjutkan dengan p
 4.  **Commit #2: Header & Navigasi**
     Menambahkan bagian `<header>` yang berisi logo dan menu navigasi utama.
     * **Pesan Commit:** `Tambah section header dan navigasi`
-<img width="706" height="130" alt="Screenshot 2025-11-01 231355" src="https://github.com/user-attachments/assets/ae43e50e-e826-4c27-a720-b3a5190bb0a1" />
+    <img width="706" height="130" alt="Screenshot 2025-11-01 231355" src="https://github.com/user-attachments/assets/ae43e50e-e826-4c27-a720-b3a5190bb0a1" />
 
 5.  **Commit #3: Section 'About'**
     Membuat section "Tentang Saya" yang berisi perkenalan diri, foto, dan tombol ajakan (call-to-action).
     * **Pesan Commit:** `buat section 'Tentang Saya' (About)`
-<img width="724" height="140" alt="Screenshot 2025-11-01 231359" src="https://github.com/user-attachments/assets/e49e71ed-15cf-413a-9339-2de2e835fd8a" />
+    <img width="724" height="140" alt="Screenshot 2025-11-01 231359" src="https://github.com/user-attachments/assets/e49e71ed-15cf-413a-9339-2de2e835fd8a" />
 
 6.  **Commit #4: Section 'Skills'**
     Menambahkan section "Kompetensi" yang menampilkan daftar bahasa pemrograman dan tools yang dikuasai dalam format kartu.
     * **Pesan Commit:** `buat section 'Kompetensi' (Skills)`
-<img width="697" height="130" alt="Screenshot 2025-11-01 231404" src="https://github.com/user-attachments/assets/d59f0b55-a1b5-484e-87e2-75b9cfa27f2c" />
+    <img width="697" height="130" alt="Screenshot 2025-11-01 231404" src="https://github.com/user-attachments/assets/d59f0b55-a1b5-484e-87e2-75b9cfa27f2c" />
 
 7.  **Commit #5: Section 'Projects'**
     Membuat section "Proyek Unggulan" untuk menampilkan portofolio proyek yang pernah dikerjakan.
     * **Pesan Commit:** `buat section 'Proyek Unggulan' (Projects)`
-<img width="726" height="128" alt="Screenshot 2025-11-01 231409" src="https://github.com/user-attachments/assets/33948485-475d-40c7-8250-d5386a28cdae" />
+    <img width="726" height="128" alt="Screenshot 2025-11-01 231409" src="https://github.com/user-attachments/assets/33948485-475d-40c7-8250-d5386a28cdae" />
 
 8.  **Commit #6: Section 'Contact' & Footer**
     Menyelesaikan halaman dengan menambahkan formulir kontak dan `<footer>`.
     * **Pesan Commit:** `Tambah section 'Kontak' dan footer halaman`
-<img width="749" height="139" alt="Screenshot 2025-11-01 231416" src="https://github.com/user-attachments/assets/ec498478-1fe9-4fde-b20f-5b19fb39fb22" />
+    <img width="749" height="139" alt="Screenshot 2025-11-01 231416" src="https://github.com/user-attachments/assets/ec498478-1fe9-4fde-b20f-5b19fb39fb22" />
 
 ### Fase 2: Eksperimen Styling dengan Branch
 
@@ -117,7 +115,7 @@ Tahap terakhir adalah mempublikasikan seluruh riwayat kerja ke repository remote
 ### Visualisasi Riwayat Commit (`git log`)
 
 Berikut adalah bukti visual dari seluruh alur kerja yang dijalankan, diambil dari output perintah `git log --graph --oneline`:
-<img width="923" height="168" alt="Screenshot 2025-11-01 233159" src="https://github.com/user-attachments/assets/e5218d29-2718-4bb2-b0da-91d4b08bab4b" />
+    <img width="923" height="168" alt="Screenshot 2025-11-01 233159" src="https://github.com/user-attachments/assets/e5218d29-2718-4bb2-b0da-91d4b08bab4b" />
 
 ---
 
