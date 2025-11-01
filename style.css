@@ -140,3 +140,38 @@ nav a:hover {
     transform: translateY(-3px);
     box-shadow: 0 7px 20px rgba(232, 93, 4, 0.3);
 }
+#skills {
+    background: var(--bg-card);
+}
+.skills-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    gap: 2rem;
+}
+.skill-card {
+    background: var(--bg-main);
+    border: 1px solid var(--border-color);
+    padding: 2rem;
+    border-radius: 10px;
+}
+.skill-card h3 {
+    font-family: var(--heading-font);
+    color: var(--secondary-color);
+    margin-bottom: 0.5rem;
+}
+.skill-card p {
+    margin-bottom: 1.5rem;
+}
+.skill-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+}
+.skill-tags span {
+    background-color: #FFEFE5;
+    color: #D35400;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    font-size: 0.9rem;
+    font-weight: 500;
+}
