@@ -80,3 +80,63 @@ nav a {
 nav a:hover {
     color: var(--primary-color);
 }
+#about {
+    padding: 6rem 0;
+}
+.about-content {
+    display: flex;
+    align-items: center;
+    gap: 4rem;
+}
+.about-text {
+    flex: 1.5;
+}
+.greeting {
+    font-family: var(--heading-font);
+    font-weight: 600;
+    color: var(--primary-color);
+    margin-bottom: 0.5rem;
+}
+.about-text h1 {
+    font-family: var(--heading-font);
+    font-size: 3.2rem;
+    color: var(--secondary-color);
+    margin-bottom: 1rem;
+    line-height: 1.2;
+}
+.about-text .subtitle {
+    font-size: 1.1rem;
+    margin-bottom: 2rem;
+}
+.about-image {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.about-image img {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 5px solid var(--bg-card);
+    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+}
+.btn {
+    display: inline-block;
+    background: var(--primary-color);
+    color: white;
+    padding: 0.8rem 2rem;
+    border: none;
+    border-radius: 50px;
+    text-decoration: none;
+    font-weight: 600;
+    text-align: center;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 15px rgba(232, 93, 4, 0.2);
+}
+.btn:hover {
+    background-color: #c44d03;
+    transform: translateY(-3px);
+    box-shadow: 0 7px 20px rgba(232, 93, 4, 0.3);
+}
