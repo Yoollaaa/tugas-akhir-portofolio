@@ -211,3 +211,56 @@ nav a:hover {
     flex-grow: 1;
     margin-bottom: 1.5rem;
 }
+#contact {
+    background: var(--bg-card);
+}
+.contact-intro {
+    text-align: center;
+    max-width: 500px;
+    margin: 0 auto 2rem auto;
+}
+.contact-form {
+    max-width: 700px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.5rem;
+}
+.form-group {
+    display: flex;
+    flex-direction: column;
+}
+.form-group.full-width {
+    grid-column: 1 / -1;
+}
+.contact-form label {
+    margin-bottom: 0.5rem;
+    font-weight: 600;
+    color: var(--secondary-color);
+}
+.contact-form input,
+.contact-form textarea {
+    width: 100%;
+    padding: 0.8rem;
+    border: 1px solid var(--border-color);
+    border-radius: 5px;
+    font-family: var(--body-font);
+    font-size: 1rem;
+}
+.contact-form input:focus,
+.contact-form textarea:focus {
+    outline: none;
+    border-color: var(--primary-color);
+    box-shadow: 0 0 0 3px rgba(232, 93, 4, 0.1);
+}
+.btn-primary {
+    width: 100%;
+    padding: 1rem;
+    font-size: 1.1rem;
+}
+#main-footer {
+    background: var(--secondary-color);
+    color: #ccc;
+    text-align: center;
+    padding: 2rem 0;
+}
