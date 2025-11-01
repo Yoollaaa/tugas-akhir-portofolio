@@ -1,9 +1,4 @@
 # Laporan Pengerjaan Tugas Akhir: Website Portofolio dengan Git Workflow
-
-Repository ini adalah penyerahan untuk Tugas Akhir mata kuliah Dasar Pemrograman Web. Proyek ini mendokumentasikan seluruh proses pembuatan website portofolio pribadi, dari inisialisasi proyek hingga publikasi, dengan menerapkan alur kerja Git (Git Workflow) yang sistematis.
-
----
-
 Berikut adalah dokumentasi langkah demi langkah dari proses pengerjaan proyek ini, sesuai dengan riwayat commit yang tercatat di Git.
 
 ### Fase 1: Inisialisasi dan Commit Bertahap
