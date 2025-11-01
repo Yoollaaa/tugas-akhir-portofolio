@@ -1,4 +1,8 @@
 # Laporan Pengerjaan Tugas Akhir: Website Portofolio dengan Git Workflow
+## Deskripsi Proyek
+
+Website ini adalah portofolio statis yang dibangun menggunakan **HTML5** dan **CSS3**. Halaman ini menampilkan profil, kompetensi (skills), proyek-proyek unggulan, dan formulir kontak. Proyek ini dibuat sebagai latihan untuk menerapkan konsep dasar pengembangan web dan sistem kontrol versi (Git).
+
 Berikut adalah dokumentasi langkah demi langkah dari proses pengerjaan proyek ini, sesuai dengan riwayat commit yang tercatat di Git.
 
 ### Fase 1: Inisialisasi dan Commit Bertahap
